@@ -58,8 +58,8 @@ echo -e
 echo -e    
 
 curl "https://api.telegram.org/bot"$token"/sendmessage" -F
-./tg -s ./jozef.lua $@ --bot=$token
+./tg -s ./PAIN.lua $@ --bot=$token
 
 
 
- Desktop version
+ 
